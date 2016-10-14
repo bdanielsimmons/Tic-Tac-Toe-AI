@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476295800 source:c:\users\bdani\onedrive\documents\programming\c++\programs\tic-tac-toe\tic-tac-toe ai\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<Board.h>
+
+1476297097 c:\users\bdani\onedrive\documents\programming\c++\programs\tic-tac-toe\tic-tac-toe ai\include\board.h
+	<iostream>
+
+1476118071 source:c:\users\bdani\onedrive\documents\programming\c++\programs\tic-tac-toe\tic-tac-toe ai\src\board.cpp
+	"Board.h"
+
